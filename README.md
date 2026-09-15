@@ -1,3 +1,3 @@
 # image
 
-![Alternative Text](https://www.example.com)
+[![Alternative Text](https://placeholder.com)](https://www.example.com)
