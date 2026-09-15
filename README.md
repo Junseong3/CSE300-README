@@ -1,5 +1,5 @@
-# Line Feed
+# Indexing
 
-To make a line break, 
-
-press Enter twice
+1. Same as docs
+2. write number + "."
+3. And Space
